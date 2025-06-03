@@ -71,10 +71,10 @@ Repository for the **Pattern Analysis and Machine Intelligence** course at Goeth
 
 #### **Week 6 (02.06):**  
 **Topic**:  
-- Introduction to Large Language Models (LLMs) 
+- Introduction to Large Language Models (LLMs) - Preprocessing in LLMs
 
 **Practical Assignment**:  
-- TBD
+- LLM Data Preprocessing Pipeline
 - 
 ---
 
