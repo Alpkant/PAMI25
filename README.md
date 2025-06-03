@@ -75,7 +75,6 @@ Repository for the **Pattern Analysis and Machine Intelligence** course at Goeth
 
 **Practical Assignment**:  
 - LLM Data Preprocessing Pipeline
-- 
 ---
 
 #### **Week 7 (09.06):**  
